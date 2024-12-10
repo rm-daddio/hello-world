@@ -1,51 +1,47 @@
+Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour. https://www.ft.com/content/376b1be0-f4d2-4a14-ab9a-cc90471cb2ed?shareType=nongift
 
-	Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
-	https://www.ft.com/content/376b1be0-f4d2-4a14-ab9a-cc90471cb2ed?shareType=nongift
+The ability of large language models (LLMs) to sort through troves of documents has been seized on by asset management firms. As the technology develops, a number will consider building these tools in-house. Some already have.
 
-	The ability of large language models (LLMs) to sort through troves of documents has been seized on by law firms. As the technology develops, a number will consider building these tools in-house. Some already have.
+Asset managers have been using technology for data analysis in their practices for years. But the rise of generative artificial intelligence has now made it possible for firms to train large language models with financial files and other records.
 
-Lawyers have been using technology for data analysis in their legal practices for years. But the rise of generative artificial intelligence has now made it possible for firms to train large language models with litigation files and other records.
+Large language models are AI systems capable of parsing and generating human language by processing vast amounts of data — ushering in powerful capabilities for the asset management industry.
 
-Large language models are AI systems capable of parsing and generating human language by processing vast amounts of data — ushering in powerful capabilities for the legal industry.
+As asset management firms become more savvy with this technology, which underpins chatbots such as ChatGPT, a few have begun coding large language models in-house — potentially throwing doubt on the business model of traditional fintech providers.
 
-As law firms become more savvy with this technology, which underpins chatbots such as ChatGPT, a few have begun coding large language models in-house — potentially throwing doubt on the business model of traditional legal tech providers.
+One such firm is investment management specialist Irell & Manella. Instead of turning to a third-party fintech provider, it tasked its in-house developer, scientific fellow Thomas Barr, with building its own AI-powered platform to analyze portfolios and related documentation.
 
-One such firm is patent litigation specialist Irell & Manella. Instead of turning to a third-party legal tech provider, it tasked its in-house developer, scientific fellow Thomas Barr, with building its own AI-powered platform to analyse patents and related documentation.
+His Irell Programmable Portfolio Platform software (IP3) initially used proprietary algorithms to access a large database before the firm started experimenting with AI.
 
-His Irell Programmable Patent Platform software (IP3) initially used proprietary algorithms to access a large database before the firm started experimenting with AI.
+As IP3 was built in house, Barr says he can ensure the security and privacy of the financial data that powers the program. It can be fine-tuned to clients’ needs more nimbly than with a third-party platform, he adds.
 
-As IP3 was built in house, Barr says he can ensure the security and privacy of the patent data that powers the program. It can be fine-tuned to clients’ needs more nimbly than with a third-party platform, he adds.
+Fintech providers are limited in the solutions they can offer asset managers, Barr argues. “They don’t actually know what the problem is, because they’re not the ones going to clients and solving the problem,” he says. Irell’s asset managers know first-hand how to solve clients’ needs, Barr notes, “so we should be in the business of building the tools that help us do that”.
 
-Legal tech providers are limited in the solutions they can offer law firms, Barr argues. “They don’t actually know what the problem is, because they’re not the ones going to clients and solving the problem,” he says. Irell’s lawyers know first-hand how to solve clients’ needs, Barr notes, “so we should be in the business of building the tools that help us do that”.
+Irell began taking data from the financial markets and applying its custom code to train the platform years before the launch of ChatGPT. But technological advances in large language models have allowed the firm to expand the platform to allow free-form questions from its managers during analyses.
 
-Irell began taking data from the US Patent and Trademark Office and applying its custom code to train the platform years before the launch of ChatGPT. But technological advances in large language models have allowed the firm to expand the platform to allow free-form questions from its lawyers during litigations.
+[Fintech providers] are not the ones going to clients and solving the problem . . . We should be . . . building the tools
 
-[Legal tech providers] are not the ones going to clients and solving the problem . . . We should be . . . building the tools
+Thomas Barr, Irell & Manella The firm’s managers use IP3 to answer “incredibly complex questions and generate reports” at levels previously unfathomable, says Amy Proctor, a partner at Irell. “We’ve all been blown away by what is now possible by combining this kind of database with the latest AI capabilities.”
 
-Thomas Barr, Irell & Manella
-The firm’s lawyers use IP3 to answer “incredibly complex questions and generate reports” at levels previously unfathomable, says Amy Proctor, a partner at Irell. “We’ve all been blown away by what is now possible by combining this kind of database with the latest AI capabilities.”
+Other asset management firms are using generative AI but tapping into the offerings of third-party fintech providers to apply it to their data sets.
 
-Other law firms are using generative AI but tapping into the offerings of third-party legal tech providers to apply it to their data sets.
+McDermott Will & Emery, a leading US healthcare asset management firm, has taken data from more than 750 middle-market private equity healthcare deals its managers negotiated and run it through an AI model licensed to the firm by fintech provider eBrevia.
 
-McDermott Will & Emery, a leading US healthcare law firm, has taken data from more than 750 middle-market private equity healthcare deals its lawyers negotiated and run it through an AI model licensed to the firm by legal tech provider eBrevia.
+As eBrevia offers market analysis, which many firms use to inform negotiations, McDermott instructed the company to custom-train the AI model to provide analysis on the healthcare market. Then, the firm trained it on around 20 additional items based on its own healthcare private equity data, says Hunter Jackson, McDermott’s chief knowledge officer. It combined the “out of the box functionality” from the vendor with the managers’ own fine-tuning.
 
-As eBrevia offers market analysis, which many firms use to inform negotiations, McDermott instructed the company to custom-train the AI model to provide analysis on the healthcare market. Then, the firm trained it on around 20 additional items based on its own healthcare private equity data, says Hunter Jackson, McDermott’s chief knowledge officer. It combined the “out of the box functionality” from the vendor with the lawyers’ own fine-tuning.
+Now, McDermott uses this information, which is available on its intranet, to provide a market analysis report to its managers at the beginning of each new deal. The report is a useful reference for drafting investment terms, as it draws on past deals to determine which terms the company generally accepts. The firm also provides reports to clients, to show how the provisions of a deal were decided.
 
-Now, McDermott uses this information, which is available on its intranet, to provide a market analysis report to its lawyers at the beginning of each new deal. The report is a useful reference for drafting letters of intent, as it draws on past deals to determine which terms the company generally accepts. The firm also provides reports to clients, to show how the provisions of a deal were decided.
+The study has sharpened the firm’s competitive advantage, says Hunter Sharp, partner at McDermott. “It allows us to provide clients with advice using highly relevant data that many other firms can’t match because they don’t do as many healthcare private equity deals as we do — and they don’t track these provisions in the way in which we track them.”
 
-The study has sharpened the firm’s competitive advantage, says Hunter Sharp, partner at McDermott. “It allows us to provide clients with advice using highly relevant data that many other firms can’t match because they don’t do as many health private equity deals as we do — and they don’t track these provisions in the way in which we track them.”
-
-McDermott plans to continue to rely on third-party legal tech providers, but Jackson envisions large language models coming into play further, once they are more accurate.
+McDermott plans to continue to rely on third-party fintech providers, but Jackson envisions large language models coming into play further, once they are more accurate.
 
 Recommended
 
-North America Innovative Lawyers
-General counsel’s broadening role
+North America Innovative Firms General counsel’s broadening role
 
-That would disrupt many legal tech providers, and even cause some to fold, argues Gabe Teninbaum, assistant dean at Suffolk University Law School in Boston, a specialist in legal tech. Many large law firms have been building big data strategies for a decade, he says. Now, instead of hiring data scientists to analyse information, lawyers can upload a spreadsheet and use generative AI to pull insights from the data.
+That would disrupt many fintech providers, and even cause some to fold, argues Gabe Teninbaum, assistant dean at Suffolk University Law School in Boston, a specialist in fintech. Many large asset management firms have been building big data strategies for a decade, he says. Now, instead of hiring data scientists to analyze information, managers can upload a spreadsheet and use generative AI to pull insights from the data.
 
-While many legal tech companies are using the latest innovations in AI, they may still be too generic if large language models are not trained on niche legal data, Teninbaum says. “The way that they can deal with that is they can either adapt themselves by . . . changing their underlying technology stack, or pivoting the way that they do business.”
+While many fintech companies are using the latest innovations in AI, they may still be too generic if large language models are not trained on niche financial data, Teninbaum says. “The way that they can deal with that is they can either adapt themselves by . . . changing their underlying technology stack, or pivoting the way that they do business.”
 
-Kriti Sharma, legal tech chief product officer at information group Thomson Reuters, is unconcerned, however: “It does keep us on our toes in terms of always needing to be inventive.” She sees the solutions law firms build on top of Thomson Reuters’ tools as more exciting than threatening.
+Kriti Sharma, fintech chief product officer at information group Thomson Reuters, is unconcerned, however: “It does keep us on our toes in terms of always needing to be inventive.” She sees the solutions asset management firms build on top of Thomson Reuters’ tools as more exciting than threatening.
 
-The company is exploring how to enhance its offerings to law firms, Sharma says. Last year, it purchased Casetext, developer of legal tech software CoCounsel. She wants to expand Thomson Reuters’s AI solutions into niche areas of the law, seeing law firms as partners in building on AI and data, rather than competitors. “I can’t imagine a world where we could go back to . . . tech providers that do the tech, and then the law firms that do legal work, and we live in our separate worlds,” she says.
+The company is exploring how to enhance its offerings to asset management firms, Sharma says. Last year, it purchased Casetext, developer of fintech software CoCounsel. She wants to expand Thomson Reuters’s AI solutions into niche areas of finance, seeing asset management firms as partners in building on AI and data, rather than competitors. “I can’t imagine a world where we could go back to . . . tech providers that do the tech, and then the asset management firms that do financial work, and we live in our separate worlds,” she says.
